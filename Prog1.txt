@@ -1,0 +1,24 @@
+CLASS STUDENT
+
+instance level attr. :
+roll
+name
+college
+phy
+chem
+maths
+per = None
+grade = None
+
+Functions/Methods :
+__init__()
+calResult()
+printResult()
+  
+101 ABC  54  63  78  65    A
+
+101 ABC  54  90  9   60   ATKT
+
+Marks should not be less than ZERO and should not be greater than 100
+
+isdigit(), isnumeric() isalpha() 

@@ -1,0 +1,26 @@
+''' Write a Python script using class to accept height and base of
+a triangle and print its area. '''
+
+#WAY-1
+class Triangle:
+    def __init__(self):
+        self.__base = float(input('Enter Base of a triangle :'))
+        self.__height = float(input('Enter Height of a triangle :'))
+        self.__area = None
+
+    def calArea(self):
+        self.__area = 0.5 * self.__base * self.__height
+
+    def displayArea(self):
+        print("Area of a Triangle = ", self.__area)
+
+def main():
+    t1 = Triangle()
+    t1.calArea()
+    t1.displayArea()
+    return
+
+if __name__ == '__main__':
+    main()
+        
+    

@@ -1,0 +1,23 @@
+''' Destructor in Python '''
+
+class Test :
+    
+    def __init__(self):
+        print("Constructed the object with ID = ", id(self))
+
+    
+    def __del__(self):
+        print("Destructor invoked for the object with ID =", id(self))
+
+
+def main():
+    print("Inside MAIN function")
+    t1 = Test()
+    print("END of MAIN function")
+    return
+
+
+if __name__ == '__main__':
+    print("START")
+    main()
+    print("END")

@@ -1,0 +1,14 @@
+''' Destructor in Python '''
+
+class Test :
+    
+    def __init__(self):
+        print("Constructed the object with ID = ", id(self))
+
+    
+    def __del__(self):
+        print("Destructor invoked for the object with ID =", id(self))
+
+
+t1 = Test()
+del t1

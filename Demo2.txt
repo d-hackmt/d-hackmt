@@ -1,0 +1,20 @@
+class Student:
+    def __init__(self, rl, nm, p):
+        self.__roll = rl    #Private Attribute
+        self.name = nm      #Public Attribute 
+ 
+    def __putData(self):
+        print(self.__roll, self.name)
+
+
+    
+s1 = Student(101,'Shital',6.3)
+
+#print("Name ::", s1.name)
+#print("Roll ::", s1.__roll)#Error
+
+s1.putData()
+
+Single Underscore : Protected attribute
+Double Underscore : Private Attr.
+No prefix : Public Attr.
