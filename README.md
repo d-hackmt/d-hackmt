@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
   <img alt="Coding" width="300" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 </p>
 
-🔭 I’m currently working on **Project to build a humanoid robot 🤖**
+<!--- 🔭 I’m currently working on **Project to build a humanoid robot 🤖** --->
 
 <p>I'm passionate about technology and love exploring the fascinating world of IoT and embedded systems. Currently, I'm working on a project to build a humanoid robot 🤖, and I'm also diving into the exciting field of bio-neural data analysis 🧠, specifically EEG data samples.</p>
 <p>🌱 While I'm still learning, I'm always eager to collaborate and work on projects with others 🤝. So, if you have any ideas or are interested in working together, please don't hesitate to reach out! Let's learn and grow together.</p>
