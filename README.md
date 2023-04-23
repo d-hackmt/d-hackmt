@@ -36,10 +36,11 @@
 
 **📫 How to Reach me:**
 <p align="left">
-<a href="linkedin.com/in/dhackmt" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
-<a href="djadhwani1025@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-<a href="https://api.whatsapp.com/send?phone=+919881968510" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
+  <a href="https://www.linkedin.com/in/dhackmt/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
+  <a href="mailto:djadhwani1025@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+  <a href="https://api.whatsapp.com/send?phone=+919881968510" target="_blank" alt="Connect on Whatsapp"><img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
+
 
 
 
