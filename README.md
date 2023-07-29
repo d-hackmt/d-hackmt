@@ -26,8 +26,6 @@
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-<!--   grid-snake -->
-![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
 
 
 <p>I'm passionate about technology and love exploring the fascinating world of IoT and embedded systems. Currently, I'm working on a project to build a humanoid robot 🤖, and I'm also diving into the exciting field of bio-neural data analysis 🧠, specifically EEG data samples.</p>
