@@ -53,9 +53,8 @@
 
 <div style="display: flex; justify-content: space-between;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=d-hackmt&show_icons=true&locale=en&layout=compact" alt="d-hackmt" style="flex: 1; height: 175px;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=d-hackmt&show_icons=true&locale=en" alt="d-hackmt" style="flex: 1; height: 175px;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=d-hackmt&show_icons=true&locale=en"alt="d-hackmt" style="flex: 1; height: 175px;">
 </div>
-
 
 
 #### Thanks for visiting :heart:
