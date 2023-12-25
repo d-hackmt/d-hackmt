@@ -10,19 +10,19 @@
 
 ![1](https://user-images.githubusercontent.com/113240252/233840016-9f297101-662f-4617-a0eb-61dc3f7c88cd.svg)
 
-<!--   my-icons  -->
+<!--  my-icons  -->
 <p align="center">
     <a href="https://github.com/BEPb/BEPb"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.11-FF1493.svg"></a>
 </p>   
 
 <!--   my-header-img -->
 ![](./src/header_.png)
 
-<p align="left">
+<!-- <p align="left">
   <img alt="Coding" width="250" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 </p>  
-
+-->
  <!--   use someday ![2](https://user-images.githubusercontent.com/113240252/233840078-f3b53870-3908-4265-9ba2-8f89dc3afdf6.png)-->
 
 <!--   my-ticker -->    
