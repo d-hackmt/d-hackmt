@@ -34,8 +34,8 @@
 
 
 
-<p>I'm passionate about technology and love exploring the fascinating world of IoT and embedded systems. Currently, I'm working on a project to build a humanoid robot 🤖 </p>
-<p>🎶 Apart from my work in tech, I also have a secret passion for music production 🎧. I produce and mix psychedelic trance music using software like Pure Data and Max 8. My ultimate goal is to combine all of my technologies and interests into one cohesive project.</p>
+<p>I'm passionate about technology and love exploring the fascinating world of IoT and AI 🤖 </p>
+
 
 
 **📫 How to Reach me:**
