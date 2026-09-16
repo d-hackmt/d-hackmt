@@ -36,7 +36,7 @@
 
 
 
-<p>I'm passionate about technology and love exploring the fascinating world of IoT and AI 🤖 </p>
+<p>I'm passionate about technology 🤖 </p>
 
 
 
