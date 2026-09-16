@@ -54,14 +54,6 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a></p>
 
 
-
-
-<div style="display: flex; justify-content: space-between;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=d-hackmt&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="d-hackmt" style="flex: 1; height: 175px;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=d-hackmt&show_icons=true&locale=en&cache_seconds=1800" alt="d-hackmt" style="flex: 1; height: 175px;">
-</div>
-
-
 #### Thanks for visiting :heart:
 
 <!-- <p>🌱 While I'm still learning, I'm always eager to collaborate and work on projects with others 🤝. So, if you have any ideas or are interested in working together, please don't hesitate to reach out! Let's learn and grow together.</p>
